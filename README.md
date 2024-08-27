@@ -1,24 +1,15 @@
 # USA Phone Number Validator 
 
+![Area Code Database](https://raw.githubusercontent.com/alexrony21/usa-phone-number-validator/main/USA_PHONE_NUMBER_VALIDATOR.png)
+
 ## Features
 
 1. **Unlimited Checking**
-   - Check as many phone numbers as you need without any restrictions.
-
 2. **Fast Checking**
-   - Efficiently processes phone numbers to quickly identify their carriers.
-
 3. **100% Accurate**
-   - Utilizes the latest and most reliable database to ensure accurate results.
-
 4. **Latest Database**
-   - The script uses the most up-to-date database for carrier information.
-
 5. **Handles Large Number Lists**
-   - Capable of processing large lists of phone numbers without performance issues.
-
 6. **Supports All Carriers**
-   - Identifies carriers for all phone numbers regardless of the provider.
 
 ## Contact
 
