@@ -1,6 +1,6 @@
 # USA Phone Number Validator 
 
-![Area Code Database](https://raw.githubusercontent.com/alexrony21/usa-phone-number-validator/main/USA_PHONE_NUMBER_VALIDATOR.png)
+![Area Code Database](https://raw.githubusercontent.com/alexrony21/usa-phone-number-validator/main/usa_number_validator.png)
 
 ## Features
 
