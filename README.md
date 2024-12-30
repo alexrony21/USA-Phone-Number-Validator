@@ -1,5 +1,7 @@
 # USA Number Validator
 
+![image](https://raw.githubusercontent.com/alexrony21/Phone-Number-Validator/refs/heads/main/USA_Phone_Number_Validator.png)
+
 ### Features:
 - **5000 Number Check per Minute**: Fast and efficient number validation.
 - **100% Accurate Checking**: Ensure the accuracy of the phone numbers.
@@ -16,4 +18,4 @@ To buy the service, contact me on Telegram: [@alexrony21](https://t.me/alexrony2
 
 ---
 
-*Note: This service is designed to ensure accurate validation of USA phone numbers for businesses, marketers, and developers.*
+*Note: This service is designed to ensure accurate validation of USA phone numbers for businesses and marketers*
