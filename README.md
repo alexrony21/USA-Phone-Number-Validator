@@ -3,7 +3,7 @@
 ![image](https://raw.githubusercontent.com/alexrony21/Phone-Number-Validator/refs/heads/main/USA_Phone_Number_Validator.png)
 
 ### Features:
-- **5000 Number Check per Minute**: Fast and efficient number validation.
+- **25k Number Check per Minute**: Fast and efficient number validation.
 - **100% Accurate Checking**: Ensure the accuracy of the phone numbers.
 - **Filter Numbers By Type**: Includes Mobile, Landline, VOIP, and more.
 - **Filter Numbers By Carrier**: Check numbers by popular carriers such as T-Mobile, Verizon Wireless, and others.
