@@ -1,4 +1,5 @@
 # USA Number Validator
+# 美国号码验证器
 
 ![image](https://raw.githubusercontent.com/alexrony21/Phone-Number-Validator/refs/heads/main/USA_Phone_Number_Validator.png)
 
