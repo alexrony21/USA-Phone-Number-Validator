@@ -1,7 +1,7 @@
 # USA Number Validator
 # 美国号码验证器
 
-![image](https://raw.githubusercontent.com/alexrony21/Phone-Number-Validator/refs/heads/main/USA_Phone_Number_Validator.png)
+![image]()
 
 ### Features:
 - **25k Number Check per Minute**: Fast and efficient number validation.
