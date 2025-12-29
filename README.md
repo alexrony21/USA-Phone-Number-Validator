@@ -1,24 +1,36 @@
 # USA Number Validator
 # 美国号码验证器
 
-![image](https://raw.githubusercontent.com/alexrony21/USA-Phone-Number-Validator/refs/heads/main/USA_Phone_Number_Validator.png)
-![image](https://raw.githubusercontent.com/alexrony21/USA-Phone-Number-Validator/refs/heads/main/USA_Carrier_Name.png)
+![USA Number Validator](https://raw.githubusercontent.com/pythoncode26/usa-phone-validator/refs/heads/main/usa-phone-validator.png)
+![USA Number Validator](https://raw.githubusercontent.com/pythoncode26/usa-phone-validator/refs/heads/main/carrier-result.png)
 
-### Features:
-- **25k Number Check per Minute**: Fast and efficient number validation.
-- **100% Accurate Checking**: Ensure the accuracy of the phone numbers.
-- **Filter Numbers By Type**: Includes Mobile, Landline, VOIP, and more.
-- **Filter Numbers By Carrier**: Check numbers by popular carriers such as T-Mobile, Verizon Wireless, and others.
-- **Bulk Import**: Import any quantity of phone numbers for validation.
-- **TurboServer for Large Requests**: Can handle large volumes of requests smoothly.
-- **Always Active Servers**: Reliable service with minimal downtime.
+## 🚀 Features
+
+- Efficiently processes large datasets with optimized number-checking performance.
+- Provides reliable validation for U.S. phone number formats and metadata.  
+- Identifies Mobile, Landline, VOIP, Toll-Free, and other number categories. 
+- Supports major U.S. carriers including T-Mobile, Verizon, AT&T, and more. 
+- Allows validation of large lists of numbers for analytics, data hygiene, and database cleanup.
+- An optional high-throughput mode designed for enterprise or large-scale data processing environments.
+- Built for consistent performance with a focus on accuracy and uptime.
+
+---
+
+## 📘 Use Cases
+
+- Data cleansing & preprocessing  
+- CRM / customer database validation   
+- Carrier identification  
+- Type identification  
+- Number-format verification  
+
+This tool is intended **solely for legitimate data-processing and validation purposes**.
 
 ---
 
-### Contact:
-To purhcase this software, contact me on Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
+## 🤝 Get in Touch
 
-## Note:
-This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
+if you want to purchase,
 
----
+- Email     : elowenreply@gmail.com
+- Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
